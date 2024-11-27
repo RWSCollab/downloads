@@ -5,6 +5,8 @@ Below are the naming rules:
 - The base URL is https://rwscollab.github.io/downloads followed by the sub folder name within the TOC.
 - The spaces in the sub folder name are replaced with underscores.
 - "&" in the sub folder name is replaced with "_and_".
+- The service name becomes the name of the downloadable file.
+- Non-alphanumeric characters in the service name are replaced with underscores.
 
 Example:
 PAM Deployments under Passive Acoustic Monitoring in the Research Planning Map
