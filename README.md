@@ -10,6 +10,7 @@ Example:
 PAM Deployments under Passive Acoustic Monitoring in the Research Planning Map
 
 Metadata: [https://rwscollab.github.io/downloads/Passive_Acoustic_Monitoring/PAM_Deployments_metadata.pdf](https://rwscollab.github.io/downloads/Passive_Acoustic_Monitoring/PAM_Deployments_metadata.pdf)
+
 Zipped file: [https://rwscollab.github.io/downloads/Passive_Acoustic_Monitoring/PAM_Deployments.zip](https://rwscollab.github.io/downloads/Passive_Acoustic_Monitoring/PAM_Deployments.zip)
 
 ## How to prepare metadata and downloadable file
