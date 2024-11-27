@@ -1,5 +1,5 @@
 # downloads
-This repo serves as a source for the metadata and downloadable files for the [RWSC Research Planning Map](https://rwsc.org/map/). The repo replicates the TOC (folder structure) of the Research Planning Map. Each service / layer in the Research Planning Map is associated with a metadata (PDF) and a downloadable zipped file in this repo. The zipped file contains the source data as a feature class in a file geodatabase and in KML format. The zipped file also includes the metadata PDF.
+This repo serves as a source for the metadata and downloadable files for the [RWSC Research Planning Map](https://rwsc.org/map/). The repo replicates the TOC (folder structure) of the [Research Planning Map](https://rwsc.org/map/). Each service / layer in the Research Planning Map is associated with a metadata (PDF) and a downloadable zipped file in this repo. The zipped file contains the source data as a feature class in a file geodatabase and in KML format. The zipped file also includes the metadata PDF.
 
 Below are the naming rules:
 - The base URL is https://rwscollab.github.io/downloads followed by the sub folder name.
